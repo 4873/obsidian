@@ -1,3 +1,7 @@
+---
+dg-publish: true
+dg-home: false
+---
 # 绘图坐标体系、
 使用turtle.setup()设置窗口的大小和位置
 ```python

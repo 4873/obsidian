@@ -1,3 +1,7 @@
+---
+dg-publish: true
+dg-home: false
+---
 
 # [Python math 模块 | 菜鸟教程](https://www.runoob.com/python3/python-math.html)
 

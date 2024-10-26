@@ -1,3 +1,7 @@
+---
+dg-publish: true
+dg-home: false
+---
 如果需要在程序中自行引发异常，则应使用 raise 语句。raise 语句有如下三种常用的用法：
 
 1. raise：单独一个 raise。该语句引发当前上下文中捕获的异常（比如在 except 块中），或默认引发 RuntimeError 异常。

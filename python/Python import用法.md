@@ -1,3 +1,7 @@
+---
+dg-publish: true
+dg-home: false
+---
 
 
 # [Python导入模块，Python import用法（超级详细）](http://c.biancheng.net/view/2397.html)

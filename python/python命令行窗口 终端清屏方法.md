@@ -1,3 +1,7 @@
+---
+dg-publish: true
+dg-home: false
+---
 
 当窗口命令行太多了，进行清屏
 ```python

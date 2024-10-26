@@ -1,3 +1,7 @@
+---
+dg-publish: true
+dg-home: false
+---
 [[ReadItLater]] [[Article]]
 
 # [Python Try Except](https://www.w3school.com.cn/python/python_try_except.asp)
