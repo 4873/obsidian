@@ -1,3 +1,7 @@
+---
+dg-publish: true
+dg-home: false
+---
 [Obsidian基本使用_obsidian多级列表_流岁金沙的博客-CSDN博客](https://blog.csdn.net/skoyine/article/details/123841436) 
 
  ![](https://csdnimg.cn/release/blogv2/dist/pc/img/original.png)

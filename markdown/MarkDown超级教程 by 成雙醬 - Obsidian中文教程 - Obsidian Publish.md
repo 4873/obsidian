@@ -1,3 +1,7 @@
+---
+dg-publish: true
+dg-home: false
+---
 [MarkDown超级教程 by 成雙醬 - Obsidian中文教程 - Obsidian Publish](https://publish.obsidian.md/chinesehelp/01+2021%E6%96%B0%E6%95%99%E7%A8%8B/MarkDown%E8%B6%85%E7%BA%A7%E6%95%99%E7%A8%8B+by+%E6%88%90%E9%9B%99%E9%86%AC#17.+Mermaid) 
 
  最新全文在：
